@@ -1,2 +1,1 @@
-# randomize_r
-ins and outs - randomize
+# randomize_everything
